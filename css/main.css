@@ -134,11 +134,11 @@ header nav ul li.btn a:hover{
 }
 
 .hero img {
-    width: 40%;
-    /*position: relative;*/
+    /*margin-top: 150px;*/
+    width: 60%;
     position: absolute;
-    right: -70px;
-    top: 0;
+    right: -1%;
+    top: 100;
 }
 
 
@@ -492,6 +492,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
