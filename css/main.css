@@ -28,7 +28,7 @@ img {
 }
 
 .container {
-    width: 1400px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -97,7 +97,7 @@ header nav ul li.btn a:hover{
 }
 
 .hero--info {
-    width: 530px;
+    width: 30%;
     padding: 250px 0;
 }
 
@@ -183,7 +183,7 @@ header nav ul li.btn a:hover{
     font-size: 35px;
     font-weight: 600;
     text-align: center;
-    width: 800px;
+    width: 45%;
 }
 
 .banner {
@@ -199,7 +199,7 @@ header nav ul li.btn a:hover{
 .banner p {
     line-height: 170%;
     margin-bottom: 30px;
-    width: 550px;
+    width: 40%;
 }
 
 .banner img {
@@ -312,7 +312,7 @@ header nav ul li.btn a:hover{
 }
 
 .email .block p {
-    width: 500px;
+    width: 30%;
 }
 
 .email .block input {
@@ -320,7 +320,7 @@ header nav ul li.btn a:hover{
     outline: none;
     border: 0;
     border-radius: 5px;
-    width: 380px;
+    width: 20%;
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: 400;
     padding: 20px 30px;
@@ -360,7 +360,7 @@ header nav ul li.btn a:hover{
 }
 
 .hero-about .info {
-    width: 500px;
+    width: 40%;
     padding: 300px 0;
 }
 
@@ -382,7 +382,7 @@ header nav ul li.btn a:hover{
 
 .nancy .info {
     position: absolute;
-    width: 500px;
+    width: 40%;
     padding: 300px 0;
     right: 50px;
 }
@@ -445,7 +445,7 @@ footer .blocks .logo {
 }
 
 footer .blocks p {
-    width: 300px;
+    width: 30%;
     margin: 15px 0;
 }
 
@@ -471,3 +471,4 @@ footer > p {
     text-align: center;
 
 }
+
