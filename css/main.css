@@ -43,7 +43,6 @@ header .logo {
 }
 
 header nav {
-    margin: 40px 0;
     float: right;
     width: 50%;
 }
@@ -493,6 +492,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
