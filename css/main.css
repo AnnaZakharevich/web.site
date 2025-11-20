@@ -50,7 +50,7 @@ header nav {
 header nav ul {
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
     z-index: 2;
     position: relative;
 }
@@ -492,6 +492,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
