@@ -272,6 +272,23 @@ header nav ul li.btn a:hover{
     text-align: center;
 }
 
+.projects .info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.projects .info .block {
+    text-align: center;
+    width: 20%;
+    margin: 30px 2%;
+
+}
+
+.projects .info .block img {
+    margin-bottom: 15px;
+}
+
 .projects .images {
     margin: 40px 0;
     display: flex;
@@ -473,6 +490,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
