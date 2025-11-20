@@ -203,7 +203,8 @@ header nav ul li.btn a:hover{
 }
 
 .banner img {
-    width: 100%;
+    width: 80%;
+    <!--width: 100%;-->
     margin-bottom: 30px;
 }
 
@@ -300,7 +301,7 @@ header nav ul li.btn a:hover{
     margin-top: 30px;
     border-radius: 10px;
     padding: 40px 3%;
-    width: 94%;
+    width: 85%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -370,7 +371,8 @@ header nav ul li.btn a:hover{
 }
 
 .hero-about img {
-    position: absolute;
+    position: relative;
+    <!--position: absolute;-->
     right: -70px;
     top: 0;
 }
@@ -471,5 +473,6 @@ footer > p {
     text-align: center;
 
 }
+
 
 
