@@ -146,6 +146,7 @@ header nav ul li.btn a:hover{
     margin-top: 60px;
     width: 60%;
     max-height: 500px;
+    max-width: 500px;
     position: absolute;
     right: -1%;
     top: 0;
@@ -502,6 +503,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
