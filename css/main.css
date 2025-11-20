@@ -44,7 +44,8 @@ header .logo {
 
 header nav {
     float: right;
-    width: 50%;
+    width: 90%;
+    max-width: 700px;
 }
 
 header nav ul {
@@ -494,6 +495,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
