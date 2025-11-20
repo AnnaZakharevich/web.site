@@ -202,6 +202,7 @@ header nav ul li.btn a:hover{
 
 .banner {
     padding: 80px 0;
+    
 }
 
 .banner h3 {
@@ -217,8 +218,10 @@ header nav ul li.btn a:hover{
 }
 
 .banner img {
-    width: 80%;
-    <!--width: 100%;-->
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
     margin-bottom: 30px;
 }
 
@@ -505,6 +508,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
