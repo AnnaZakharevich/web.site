@@ -135,6 +135,7 @@ header nav ul li.btn a:hover{
 }
 
 .hero img {
+    width: 40%;
     position: relative;
     /* position: absolute; */
     right: -70px;
@@ -492,6 +493,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
