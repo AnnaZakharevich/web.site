@@ -135,6 +135,12 @@ header nav ul li.btn a:hover{
     transform: scale(1.1);
 }
 
+.hero--info img {
+        margin-top: 60px;
+    width: 50%;
+    max-height: 500px;
+}
+
 .hero img {
     margin-top: 60px;
     width: 60%;
@@ -495,6 +501,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
