@@ -344,7 +344,7 @@ header nav ul li.btn a:hover{
 }
 
 .email .block p {
-    width: 500px;
+    width: 30%;
 }
 
 .email .block input {
@@ -352,14 +352,14 @@ header nav ul li.btn a:hover{
     outline: none;
     border: 0;
     border-radius: 5px;
-    width: 380px;
+    width: 40%;
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: 400;
-    padding: 20px 30px;
+    padding: 5% 7%;
     position: relative;
-    right: -115px;
+    right: -15px;
     z-index: 1;
-    padding-right: 130px;
+    padding-right: 5%;
 }
 
 .email .block input::placeholder {
@@ -369,7 +369,7 @@ header nav ul li.btn a:hover{
 .email .block button {
     cursor: pointer;
     border: 0;
-    padding: 13px 17px;
+    padding: 3px 7px;
     position:relative;
     z-index: 2;;
     color: rgb(91, 67, 6);
@@ -504,6 +504,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
