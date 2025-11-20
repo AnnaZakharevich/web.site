@@ -45,7 +45,7 @@ header .logo {
 header nav {
     float: right;
     width: 90%;
-    max-width: 700px;
+    max-width: 770px;
 }
 
 header nav ul {
@@ -58,7 +58,7 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
-    margin: 10px 0;
+    padding: 0 10px;
 }
 
 header nav ul li a {
@@ -502,6 +502,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
