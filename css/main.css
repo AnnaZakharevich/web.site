@@ -492,6 +492,7 @@ footer .blocks ul {
 }
 
 footer .blocks ul li {
+    color: rgb(91, 67, 6);
     margin-top: 7px;
     opacity: 0.8;
 }
@@ -504,6 +505,7 @@ footer > p {
     text-align: center;
 
 }
+
 
 
 
